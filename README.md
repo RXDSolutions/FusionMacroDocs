@@ -1,0 +1,2 @@
+# FusionMacroDocs
+Documentation for FusionMacro
